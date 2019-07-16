@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftKeychain",
+        "repositoryURL": "https://github.com/BluPandaLLC/SwiftKeychain.git",
+        "state": {
+          "branch": null,
+          "revision": "27bccd10a8debddeafb6d3f14678f6f22afe5b01",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

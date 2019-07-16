@@ -19,8 +19,8 @@
 //
 
 import Foundation
+import Keychain
 #if !NO_KEYCHAIN_IMPORT     // needs to be imported when using `swift build`, not when building via Xcode
-import SwiftKeychain
 #endif
 
 
